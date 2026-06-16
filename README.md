@@ -10,10 +10,8 @@ Designed with business intelligence principles, this dashboard enables users to 
 
 ## 🚀 Dashboard Preview
 
-> Add your dashboard screenshot here
 <img width="1892" height="851" alt="Screenshot 2026-06-16 092729" src="https://github.com/user-attachments/assets/5ac7f455-566e-448e-bac1-5e2211e905ab" />
 
-![Dashboard Preview](images/dashboard.png)
 
 ---
 
@@ -153,8 +151,8 @@ The objective of this project is to demonstrate how **Microsoft Excel** can be u
 
 **Your Name**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/rajsingh701
+- LinkedIn: https://linkedin.com/in/raj-kumar-singh701
 
 ---
 
